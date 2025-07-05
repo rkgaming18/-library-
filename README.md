@@ -110,7 +110,7 @@
       <a href="#"><img src="youtube.svg" alt="YouTube"></a>
     </nav>
   </header>  <!-- ❤️ মহতবাণী Section -->  <section class="quote-banner">
-    ❤️ শিক্ষাই হোয়ে আটাইতকৈ শক্তিশালী অস্ত্র — <strong>ড়ী ভুপেন হাজরিকা</strong>
+    ❤️ Education is the most powerful weapon which you can use to change the world.— <strong>Nelson Mandela</strong>
   </section>  <!-- 📚 Content Sections -->  <main class="content">
     <section>
       <h2>অসমীয়া মাধ্যম</h2>
