@@ -10,7 +10,7 @@
       color: #222;
     }
 
-    /* Header */
+  /* Header */
     .top-bar {
       display: flex;
       justify-content: space-between;
@@ -20,35 +20,35 @@
       border-bottom: 1px solid #ccc;
     }
 
-    .logo-container {
+  .logo-container {
       display: flex;
       align-items: center;
     }
 
-    .logo {
+   .logo {
       width: 50px;
       height: 50px;
       margin-right: 10px;
     }
 
-    .site-name h1 {
+  .site-name h1 {
       margin: 0;
       font-size: 20px;
       color: #d32f2f;
     }
 
-    .site-name p {
+   .site-name p {
       margin: 0;
       font-size: 12px;
       color: #666;
     }
 
-    .social-icons a img {
+   .social-icons a img {
       width: 20px;
       margin-left: 10px;
     }
 
-    /* Quote Section */
+  /* Quote Section */
     .quote-banner {
       background: #f0f0f0;
       padding: 12px;
@@ -57,48 +57,48 @@
       font-weight: bold;
     }
 
-    /* Main content */
+   /* Main content */
     .content {
       padding: 20px;
     }
 
-    .content h2 {
+  .content h2 {
       color: #4caf50;
     }
 
-    .content ul {
+  .content ul {
       list-style: none;
       padding-left: 0;
     }
 
-    .content li {
+  .content li {
       padding: 5px 0;
     }
 
-    .content a {
+   .content a {
       text-decoration: none;
       color: #0066cc;
     }
 
-    .content a:hover {
+   .content a:hover {
       text-decoration: underline;
     }
 
-    /* Responsive */
+   /* Responsive */
     @media (max-width: 600px) {
       .logo {
         width: 40px;
         height: 40px;
       }
 
-      .site-name h1 {
+  .site-name h1 {
         font-size: 18px;
       }
     }
   </style></head>
 <body>  <!-- 🔷 Top Header -->  <header class="top-bar">
     <div class="logo-container">
-      <img src="asim-logo.png" alt="অসীম Library Logo" class="logo">
+      <img src="https://i.ibb.co/cSm0yNQ8/IMG-20250619-211951.jpg" alt="অসীম Library Logo" class="logo">
       <div class="site-name">
         <h1>অসীম Library</h1>
         <p>Connecting Learners</p>
