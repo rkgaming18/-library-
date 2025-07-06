@@ -105,13 +105,13 @@
       </div>
     </div>
     <nav class="social-icons">
-      <a href="#"><img src="facebook.svg" alt="Facebook"></a>
+      <a href="#"><img src="https://facebook.com" alt="Facebook"></a>
       <a href="#"><img src="twitter.svg" alt="Twitter"></a>
       <a href="#"><img src="youtube.svg" alt="YouTube"></a>
     </nav>
-  </header>  <!-- ❤️ মহতবাণী Section -->  <section class="quote-banner">
+  </header> <section class="quote-banner">
     ❤️ Education is the most powerful weapon which you can use to change the world.— <strong>Nelson Mandela</strong>
-  </section>  <!-- 📚 Content Sections -->  <main class="content">
+  </section> <main class="content">
     <section>
       <h2>অসমীয়া মাধ্যম</h2>
       <ul>
